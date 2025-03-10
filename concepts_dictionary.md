@@ -16,3 +16,5 @@ Can colect different Git projects. Online repository (BackUp)
 2. Staging Area: Place where you add files to prepare for the commit
 
 3. Local repository: Where you store the versions, `.git` folder.
+
+Testing a no msg commit.
